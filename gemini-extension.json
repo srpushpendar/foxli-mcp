@@ -1,0 +1,11 @@
+{
+  "name": "foxli",
+  "version": "1.0.0",
+  "description": "Plan, draft, schedule and publish social posts to 7 platforms and read analytics with Foxli.",
+  "mcpServers": {
+    "foxli": {
+      "httpUrl": "https://mcp.foxli.app/mcp",
+      "oauth": { "enabled": true }
+    }
+  }
+}
