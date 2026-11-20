@@ -1,0 +1,11 @@
+{
+  "name": "foxli",
+  "description": "Plan, draft, schedule and publish social posts to 7 platforms and read analytics from your AI assistant.",
+  "version": "1.0.0",
+  "author": { "name": "Zooappia", "email": "support@foxli.app" },
+  "homepage": "https://foxli.app/developers/mcp",
+  "repository": "https://github.com/srpushpendar/foxli-mcp",
+  "license": "MIT",
+  "keywords": ["social media", "scheduling", "content calendar", "instagram", "linkedin", "analytics", "marketing"],
+  "logo": "assets/logo.png"
+}
